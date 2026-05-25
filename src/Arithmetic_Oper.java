@@ -19,9 +19,9 @@ public class Arithmetic_Oper {
         result = value1 - value2;
         System.out.println("Subtraction: "+result);
 
-        // Multiply operation
+        // Multiplication operation
         result = value1 * value2;
-        System.out.println("Multiply: "+result);
+        System.out.println("Multiplication: "+result);
 
         //Division operation
         result = value1 / value2;
